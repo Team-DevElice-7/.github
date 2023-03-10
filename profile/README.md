@@ -61,11 +61,7 @@
 
 ### Dev tools
 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
-<a href="https://www.sourcetreeapp.com/">
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=&logo=Sourcetree&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/> <a href="https://www.sourcetreeapp.com/"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=&logo=Sourcetree&logoColor=white"/></a>
 
 ---
 
