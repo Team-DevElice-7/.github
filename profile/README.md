@@ -37,7 +37,7 @@
 
 #### library
 
-<img src="https://img.shields.io/badge/npm-CB3837?style&logo=npm&logoColor=white"/><img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=&logo=Let's Encrypt&logoColor=white"/><img src="https://img.shields.io/badge/PM2-2B037A?style=&logo=PM2&logoColor=white"/><img src="https://img.shields.io/badge/Passport-34E27A?style=&logo=Passport&logoColor=white"/><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=&logo=Sequelize&logoColor=white"/><img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=&logo=JSON Web Tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=&logo=Let's Encrypt&logoColor=white"/> <img src="https://img.shields.io/badge/PM2-2B037A?style=&logo=PM2&logoColor=white"/> <img src="https://img.shields.io/badge/Passport-34E27A?style=&logo=Passport&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=&logo=Sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=&logo=JSON Web Tokens&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/FCM-yellow?style=&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=&logo=Socket.io&logoColor=white"/>
